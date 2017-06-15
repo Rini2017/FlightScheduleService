@@ -1,0 +1,15 @@
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/api/AirPortScheduleApi.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/api/AirPortScheduleApiController.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/model/Schedule.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/model/InlineResponse200FlightSchedule.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/model/InlineResponse200FlightScheduleStop.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/api/NotFoundException.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/api/ApiOriginFilter.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/api/ApiException.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/model/InlineResponse200FlightScheduleRoute.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/Swagger2SpringBoot.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/api/ApiResponseMessage.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/RFC3339DateFormat.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/configuration/HomeController.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/model/InlineResponse200.java
+/projects/FlightScheduleService/src/main/java/com/cognizant/airport/schedule/configuration/SwaggerDocumentationConfig.java
